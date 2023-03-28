@@ -1,0 +1,36 @@
+/********************* TAG SELECTORS ********************/
+
+h1 {
+  color: brown;
+  font-size: 120px;
+}
+
+/*
+img {
+  background-color: brown;
+}
+*/
+
+img:hover {
+  background-color: gold;
+}
+
+/********************* CLASS SELECTORS ********************/
+
+.kahve {
+  background-color: brown;
+}
+
+.frenchPress {
+  background-color: green;
+}
+
+.yuvarlak {
+  border-radius: 100%;
+}
+
+/********************* ID SELECTORS ********************/
+
+#baslik {
+  color: darkgreen;
+}
